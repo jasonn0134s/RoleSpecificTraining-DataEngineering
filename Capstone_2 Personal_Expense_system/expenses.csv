@@ -1,0 +1,7 @@
+user_id,category,amount,date,payment_method
+1,Food,250,2026-05-01,UPI
+1,Travel,1200,2026-05-02,Card
+2,Shopping,500,2026-05-03,Cash
+3,Food,300,2026-05-04,UPI
+2,Travel,800,2026-05-05,Card
+1,Shopping,650,2026-05-06,Cash
