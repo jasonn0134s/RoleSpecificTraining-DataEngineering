@@ -1,0 +1,12 @@
+E-Commerce Sales Report
+Total Website Visits: 10
+Unique Visitors: 5
+Total Revenue: ₹181000
+
+Top Customer: Rahul
+
+Product Sales:
+Laptop     : ₹150000
+Monitor    : ₹24000
+Keyboard   : ₹4500
+Mouse      : ₹2500
