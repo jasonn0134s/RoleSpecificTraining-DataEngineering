@@ -2,6 +2,8 @@ name: Healthcare Appointment CI Pipeline
 
 on:
   push:
+    paths:
+      - 'healthcare-appointment-management-platform/**'
     branches:
       - main
 
@@ -23,9 +25,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install Dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run Tests
-        run: |
-          python -m pytest
+        run: python -m pytest
